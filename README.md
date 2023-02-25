@@ -13,3 +13,4 @@ Ikuti sosial media saya di
 Projek pribadi saya
 - Trisna Sejati (<a href="https://www.trisnasejati.com">www.trisnasejati.com</a>)
 - Marurah (<a href="https://www.marurah.com">www.marurah.com</a>)
+- Sector Family (<a href="https://www.sectorfamily.com">www.sectorfamily.com</a>)
