@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center">
+<img src="https://trisnawan.my.id/assets/img/trisnawan_head.png">
+</p>
 
-<!--
-**trisnawan/trisnawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, saya Trisnawan 👋
 
-Here are some ideas to get you started:
+Ikuti sosial media saya di
+- Instagram (<a href="https://www.instagram.com/trisna_cb">@trisna_cb</a>)
+- Facebook (<a href="https://www.facebook.com/trisna_cb">@trisna_cb</a>)
+- YouTube (<a href="https://www.youtube.com/trisnasejati">Trisna Sejati</a>)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projek pribadi saya
+- Trisna Sejati (<a href="https://www.trisnasejati.com">www.trisnasejati.com</a>)
+- Marurah (<a href="https://www.marurah.com">www.marurah.com</a>)
