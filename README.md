@@ -6,7 +6,8 @@
 
 Ikuti sosial media saya di
 - Instagram (<a href="https://www.instagram.com/trisna_cb">@trisna_cb</a>)
-- Facebook (<a href="https://www.facebook.com/trisna_cb">@trisna_cb</a>)
+- Facebook (<a href="https://www.facebook.com/trisnawan.my.id">Trisnawan</a>)
+- Website Portofolio (<a href="https://trisnawan.my.id">trisnawan.my.id</a>)
 - YouTube (<a href="https://www.youtube.com/trisnasejati">Trisna Sejati</a>)
 
 Projek pribadi saya
