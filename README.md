@@ -1,6 +1,6 @@
 # Hi, I'm Trisnawan 👋
 
-I have been a Web and Android Developer since 2019 and an active student at Bina Sarana Informatika University since 2022 until now
+I am a programmer from Central Java, Indonesia, and a graduate of Bina Sarana Informatika University with a Bachelor's degree in Computer Science (S.Kom). I have been working as a web developer at IARFC Indonesia since 2019. I currently reside in East Jakarta.
 
 ### Tech Stack
 <a href="https://codeigniter.com/"><img src="https://codeigniter.com/assets/icons/ci-logo.png" height="40px"></a>
