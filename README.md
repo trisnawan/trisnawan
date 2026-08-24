@@ -8,7 +8,7 @@ I am a programmer from Central Java, Indonesia, and a graduate of Bina Sarana In
 <a href="https://react.dev/"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="40px"></a>
 <a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="40px"></a>
 <a href="https://nestjs.com/"><img src="https://nestjs.com/logo.svg" height="40px"></a>
-<a href="http://angular.dev/"><img src="https://angular.dev/assets/images/press-kit/angular_icon_gradient.gif" height="40px"></a>
+<a href="http://angular.dev/"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/angular-icon.png" height="40px"></a>
 <a href="https://developer.android.com/studio"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" height="40px"></a>
 
 ### Contact me
