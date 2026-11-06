@@ -2,8 +2,9 @@
 
 I am a programmer from Central Java, Indonesia, and a graduate of Bina Sarana Informatika University with a Bachelor's degree in Computer Science (S.Kom). I have been working as a web developer at IARFC Indonesia since 2019. I currently reside in East Jakarta.
 
-### Tech Stack
-<a href="https://codeigniter.com/"><img src="https://codeigniter.com/assets/icons/ci-logo.png" height="40px"></a>
+## My Tech Stack
+- <img src="https://codeigniter.com/assets/icons/ci-logo.png" height="10px"> CodeIgniter
+
 <a href="https://laravel.com/"><img src="https://laravel.com/img/logomark.min.svg" height="40px"></a>
 <a href="https://react.dev/"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="40px"></a>
 <a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="40px"></a>
