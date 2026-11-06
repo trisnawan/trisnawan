@@ -7,7 +7,7 @@ I am a programmer from Central Java, Indonesia, and a graduate of Bina Sarana In
 - <img src="https://laravel.com/img/logomark.min.svg" height="14px"> Laravel
 - <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="14px"> NextJS
 - <img src="https://nestjs.com/logo.svg" height="14px"> NestJS
-- <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/angular-icon.png" height="40px"> Angular
+- <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/angular-icon.png" height="14px"> Angular
 
 ## Contact
 - Email (<a href="mailto:halo.trisnasejati@gmail.com">contact@trisnawan.com</a>)
